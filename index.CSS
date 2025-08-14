@@ -1,0 +1,34 @@
+#Separate CSS file 3
+A CSS document to style the HTML page:
+
+/justina.css/
+
+body{
+font-family: tahoma, geneva;
+background linear-gradient
+color: #444;
+text-align: center;
+}
+/** hot weather.css**//
+
+body{
+font-family: tahoma, geneva;
+background: linear-gradient
+color: #333;
+text-alignLCenter;
+}
+  
+h1 {
+font-size: 2em;
+Color: #ff3c00;
+}
+
+.weather-icon {
+font-size: 5em;
+color: #ffca3a;
+}
+
+footer {
+margin-top: 3em;
+color:#444;
+}
